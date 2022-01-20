@@ -1,4 +1,4 @@
-# Grupo5Proyecto
+# Grupo05 - Proyecto Coderhouse
 
 Proyecto academico sobre desarrollo web en Python/Django
 
